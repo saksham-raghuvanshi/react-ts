@@ -104,4 +104,13 @@ span {
 }
 
 
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form{
+    margin-top: 100px;
+}
 
